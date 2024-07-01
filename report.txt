@@ -1,0 +1,90 @@
+\documentclass{article}
+
+\title{PClub Summer Project Report:Code Assassins}
+\author{Aarsh Prakash Agarwal\\Aditya Jhawar\\Prakhar Ji Gupta\\Shikhar Shivraj Jaiswal}
+
+\begin{document}
+ 
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+\paragraph{Aim}
+Our project is based on machine learning,employing the technique to predict the closing rates of the forex markets. Here, we constrict our study on the exchange rates of USD and Euro based on the per minute data available. We make use of the starting rate,its maximimum and its minimum to predict its closing rate.
+
+\paragraph{Skills required}
+Practically not much is needed to know before you begin the project. A fine understanding of any programming language like C or Java is enough.
+
+\paragraph{Skills acquired}
+During the course of the project we learnt a lot of new skills
+	\begin{enumerate}
+		\item Python
+		\item Git
+		\item Lua
+	\end{enumerate}
+\newpage
+\paragraph{Timeline}
+Throughout the course of this project we completed several tasks assigned to us in the following order:
+
+27th May :Project begins.We are asked to read the first four chapters of neural networks and deep learning and implement the tutorial on the MNIST numbers.
+
+08th June:Lua and torch tutorials are done
+
+13th June:We complete reading the four chapters of neural networks and install the necessary software required to complete the tasks
+
+14th June:First Evaluation
+
+20th June:We finish implementing the MNIST tutorial
+
+21st June:We are asked to choose a task that uses machine learning and complete the project. We choose prediction of foreign exchange rates
+
+25th June:Second Evaluation. This was the final evaluation however as we had started the project a little late so we receive an extension.
+
+09th July:Final Evaluation and our project is completed
+
+
+\newpage
+\paragraph{Resources}
+The internet has been the constant source of information regarding each and every aspect of or project. Some websites used by us along with the help they provides are listed below as
+	\begin{itemize}
+		\item http://rnduja.github.io/ 
+ 			\begin{itemize}
+				\item provided us with basic framework of our code
+				\item helped in understanding the neural networks
+			\end{itemize}
+		\item  http://neuralnetworksanddeeplearning.com/
+			\begin{itemize}
+				\item Chapters 1-4 are sufficient for you to grasp the concept of neural networks
+			\end{itemize}
+		\item http://stackoverflow.com/
+			\begin{itemize}
+				\item helped in debugging errors in the code
+				\item helped in finding better solutions to the problems faced by us
+			\end{itemize}
+		\item https://github.com/torch/torch7/wiki/Cheatsheet
+			\begin{itemize}
+				\item installing torch
+			\end{itemize}
+		\item http://tylerneylon.com/a/learn-lua/
+			\begin{itemize}
+				\item basic lua tutorial
+			\end{itemize}
+		\item http://learnpython.org/
+			\begin{itemize}
+				\item as the name suggest to get familiar with python
+			\end{itemize}
+		\item https://www.atlassian.com/git/tutorials/
+			\begin{itemize}
+				\item to acquire basic knowledge about github
+			\end{itemize}
+		\item https://try.github.io/levels/1/challenges/1
+			\begin{itemize}
+				\item to brush up your github knowledge
+			\end{itemize}
+		\item http://www.histdata.com/
+			\begin{itemize}
+				\item to get the foreign exchange rates for the currency pair under study
+			\end{itemize}
+	\end{itemize}
+ 
+\end{document}
