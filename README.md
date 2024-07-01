@@ -1,4 +1,5 @@
 ----
+layout: post
 title: "Forex Prediction"
 author: dark02bs
 tags:
