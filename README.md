@@ -2,6 +2,7 @@
 layout: post
 title: "Forex Prediction"
 author: dark02bs
+website: http://dark02bs.github.io/
 tags:
 - machine learning
 categories:
